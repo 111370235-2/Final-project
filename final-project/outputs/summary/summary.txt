@@ -1,0 +1,19 @@
+# Final Individual Project: One-Page Research Summary
+
+* Name: Lin, Chia-Hsin
+* Student ID: 111370235
+* Topic: Adolescent Smoking and Emotional Health Analysis
+
+### 1. Introduction & Motivation
+Adolescent substance use poses severe long-term public health challenges. This study utilizes data from the 2007 Youth Risk Behavior Surveillance System (YRBSS) to evaluate whether chronic feelings of sadness or hopelessness independently serve as a statistically significant predictor of current cigarette smoking behavior among teenagers.
+
+### 2. Methodology
+The final sample contains 13,174 valid observations. Categorical variables were recoded into binary formats: Sad_recoded (1=Sad, 0=Not Sad) and Smoke_recoded (1=Current Smoker, 0=Non-Smoker). A Linear Probability Model (Ordinary Least Squares regression) was executed to formally test the null hypothesis at an alpha level of 0.05.
+
+### 3. Empirical Results
+* Descriptive and Risk Profile: The baseline smoking rate for the non-distressed cohort is 16.18%, whereas the distressed cohort exhibits a smoking prevalence of 27.61%. The calculated relative risk indicates that emotionally distressed adolescents are approximately 1.71 times more likely to smoke.
+* Exploratory Demographic Extension: Stratified interaction analysis indicates that smoking rates increase consistently when transitioning from "Not Sad" to "Sad" within both gender cohorts, suggesting that the emotional health risk vector operates universally across genders.
+* Regression Inference: The regression model establishes a highly significant statistical association (p < 0.001). The model yields an estimated intercept of 0.1618 and a slope coefficient of 0.1143. Experiencing prolonged sadness is associated with an 11.43 percentage-point higher probability of current smoking. The 95% confidence interval for the slope ranges from 0.100 to 0.129, comfortably excluding zero.
+
+### 4. Discussion & Conclusion
+The statistical evidence strongly rejects the null hypothesis, demonstrating that emotional distress is a powerful, robust predictor of youth tobacco use. Future public health research should incorporate demographic control variables into a multiple regression framework to evaluate whether the independent impact of emotional health remains significant after adjusting for these factors.

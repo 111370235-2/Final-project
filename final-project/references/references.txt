@@ -1,0 +1,4 @@
+# Project References
+
+1. Centers for Disease Control and Prevention (CDC). (2007). Youth Risk Behavior Surveillance System (YRBSS). Data available from https://www.cdc.gov/yrbs/index.html
+2. Linear Probability Model and Ordinary Least Squares Estimation for Binary Outcomes in Social Sciences.

@@ -1,0 +1,3 @@
+Parameter,Estimate (coef),p-value,95% Conf. Interval
+Intercept (β₀),0.1618,0.000e+00,"(0.154, 0.170)"
+Sad_recoded (β₁),0.1143,1.241e-51,"(0.100, 0.129)"
