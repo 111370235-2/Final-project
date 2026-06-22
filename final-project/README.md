@@ -10,8 +10,7 @@
 
 ## Project Repository
 
-[https://github.com/your-github-repository](https://github.com/111370235-2/Final-project.git](https://github.com/111370235-2/Final-project.git)
-
+https://github.com/111370235-2/Final-project.git
 ---
 
 ## Presentation Video
